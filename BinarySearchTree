@@ -1,0 +1,11 @@
+1-)[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
+-[0,1,2,3,4,5,6,7,8,9] sıralarız 10 sayı olduğu için 2 ye böleriz 5'i alalım
+-5'in sağına 7 soluna 2 yazarız
+-1'in soluna 0 3'ün sağına 4 yazarız
+-8'in sağına 9 yazılır
+
+
+                          5
+                   2             7
+                1     3       6     8
+             0           4             9
